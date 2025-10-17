@@ -26,6 +26,6 @@ Supports multiple languages with a consistent, easy-to-read design.
 - Resource pack by **Saransak Lueangoon**
 - 
 ## Share to
-[Facebook](https://www.facebook.com/sharer/sharer.php?u=https://saransakl.github.io/Noto-Sans-Typeface-Pack/)
-[X formerly Twitter](https://twitter.com/intent/tweet?url=https://saransakl.github.io/Noto-Sans-Typeface-Pack/)
+[Facebook](https://www.facebook.com/sharer/sharer.php?u=https://saransakl.github.io/Noto-Sans-Typeface-Pack/) | 
+[X formerly Twitter](https://twitter.com/intent/tweet?url=https://saransakl.github.io/Noto-Sans-Typeface-Pack/) | 
 [Email](mailto:?subject=Noto%20Sans%20Typeface%20Pack%20(Minecraft%20Java)&body=https://saransakl.github.io/Noto-Sans-Typeface-Pack)
