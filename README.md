@@ -11,7 +11,7 @@ Supports multiple languages with a consistent, easy-to-read design.
 
 ## Installation
 1. Download your version:
-   - [Minecraft 1.21](NotoSansTypefacePack_1.21.zip)
+   - [1.21](NotoSansTypefacePack_1.21.zip)
 2. Move it to your `resourcepacks` folder
 3. Enable it in **Options** > **Resource Packs**
 
