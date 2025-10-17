@@ -10,7 +10,7 @@ Supports multiple languages with a consistent, easy-to-read design.
 - Works for newest version Minecraft Java
 
 ## Installation
-1. [Download NotoSansMedium_Typeface.zip](NotoSansMedium_Typeface.zip) file
+1. Download [NotoSansMedium_Typeface.zip](NotoSansMedium_Typeface.zip) file
 2. Move it to your `resourcepacks` folder
 3. Enable it in **Options > Resource Packs**
 
