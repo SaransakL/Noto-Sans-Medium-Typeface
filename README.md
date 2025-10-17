@@ -19,5 +19,5 @@ The pack replaces the default Minecraft font with **Noto Sans Medium**, giving a
 
 ## Credits
 Typeface by **Google Fonts (Noto Project)**  
-Resource pack by **[Your Name or Team Name]**
+Resource pack by **Saransak Lueangoon**
 
