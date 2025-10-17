@@ -16,6 +16,9 @@ Supports multiple languages with a consistent, easy-to-read design.
 
 ## Preview
 ![](engPreview.png)
+![](optionPreview.png)
+![](langPreview.png)
+![](ingameF3Preview.png)
 
 ## Credits
 Typeface by **Google Fonts (Noto Project)**
