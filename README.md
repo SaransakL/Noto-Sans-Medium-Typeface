@@ -15,7 +15,7 @@ Supports multiple languages with a consistent, easy-to-read design.
 3. Enable it in **Options → Resource Packs**
 
 ## Preview
-The pack replaces the default Minecraft font with **Noto Sans Medium**, giving a smoother and more universal appearance.
+![](engPreview.png)
 
 ## Credits
 Typeface by **Google Fonts (Noto Project)**  
