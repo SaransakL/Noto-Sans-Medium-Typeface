@@ -24,3 +24,8 @@ Supports multiple languages with a consistent, easy-to-read design.
 ## Credits
 - Typeface by **Google Fonts (Noto Project)**
 - Resource pack by **Saransak Lueangoon**
+- 
+## Share to
+[Facebook](https://www.facebook.com/sharer/sharer.php?u=https://saransakl.github.io/Noto-Sans-Typeface-Pack/)
+[X formerly Twitter](https://twitter.com/intent/tweet?url=https://saransakl.github.io/Noto-Sans-Typeface-Pack/)
+[Email](mailto:?subject=Noto Sans Typeface Pack (Minecraft Java)&body=https://saransakl.github.io/Noto-Sans-Typeface-Pack)
